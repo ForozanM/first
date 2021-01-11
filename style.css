@@ -8,9 +8,10 @@ body{
     text-align: center;
     color: black;
     margin: 0;
+    background-color: lemonchiffon;
 }
 h1{
-    font-size: 4rem;
+    font-size: 60px;
     margin-bottom: 0;
 }
 img{
@@ -33,6 +34,45 @@ img{
     #img-caption{
         font-size: 1.4rem;
     }
+    h1{
+        font-size: 10px;
+        line-height: 1.2;
+    }
+    
 }
+ul{
+    max-width: 814px;
+    margin: 0 75px auto;
+    line-height: 1.6;
+    text-align:right;
+}
+li{
+    margin: 16px 0;
+    text-align: center;
+}
+#main{
+    margin: 30px 5px ;
+    padding: 15px;
+    border-radius: 5px;
+    background-color:;
+}
+#tribute-info{
+    text-align: center;
+}
+#blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+#headline{
+    margin: 50px 0;
+    text-align: center;
+}
+h3{
+    font-size: 48px;
+}
+
+
 
 
