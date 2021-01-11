@@ -2,7 +2,7 @@ html{
  
 }
 body{
-    font-family: 'Courier New', Courier, monospace;
+    font-family:monospace , 'Times New Roman', Times, serif;
     font-size:  1.8rem;
     line-height: 1.7rem;
     text-align: center;
@@ -22,8 +22,8 @@ img{
 }
 #img-div{
         background-color: silver;
-        padding: 53px;
-        margin: 32px;
+        padding: 21px;
+        margin: 31px;
 
 }
 #img-caption{
@@ -34,4 +34,5 @@ img{
         font-size: 1.4rem;
     }
 }
+
 
